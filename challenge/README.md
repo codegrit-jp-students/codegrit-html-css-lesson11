@@ -29,12 +29,11 @@ Bootstrapのグリッドを使って、以下の模範回答例のスクリー�
 
 デスクトップ、タブレット、それぞれ異なるモバイル端末で設定してください。
 
+- [デスクトップ](https://firebasestorage.googleapis.com/v0/b/codegrit-188601.appspot.com/o/material-images%2Fhtml-css%2Flesson11%2Fchallenge%2Fgrid-challenge1.png?alt=media&token=11fea578-ed5f-4ccd-99f0-866ff83f1967)
+- [タブレット](https://firebasestorage.googleapis.com/v0/b/codegrit-188601.appspot.com/o/material-images%2Fhtml-css%2Flesson11%2Fchallenge%2Fgrid-challenge2.png?alt=media&token=db53a4ad-8565-48bb-9409-cefb4bafc851)
+- [モバイル](gs://codegrit-188601.appspot.com/material-images/html-css/lesson11/challenge/grid-challenge3.png)
 
-- [デスクトップ](./images/grid-challenge1.png)
-- [タブレット](./images/grid-challenge2.png)
-- [それぞれのモバイル端末（以下は一部の例）](./images/grid-challenge3.png)
-
-Class 3のポジショニングチャレンジで作成したWebページを応用して作成しましょう。
+レッスン3のチャレンジで作成したWebページを応用して作成しましょう。
 
 ## スターターファイル
 
