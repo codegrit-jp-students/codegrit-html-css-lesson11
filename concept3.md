@@ -2,9 +2,9 @@
 
 ### 実例１：全端末統一する場合のブレークポイント（All breakpoints）
 
-モバイルからデスクトップまで全端末同じ表示のさせ方で要素を配置したい場合は、この `All breakpoints` の方法が使えます。
+モバイルからデスクトップまで全端末同じ表示のさせ方で要素を配置したい場合は、この`All breakpoints`の方法が使えます。
 
- `col` で全要素を均等に自動調整させるか、 `col-数字` で特定の要素だけ横幅を指定するかどちらでも構いません。
+`col`で全要素を均等に自動調整させるか、`col-数字`で特定の要素だけ横幅を指定するかどちらでも構いません。
 
 ```html
 <div class="row">
@@ -19,7 +19,7 @@
 </div><!-- /.row -->
 ```
 
-<img src="images/grid8.png" />
+![grid8.png](./images/grid8.png)
 
 ### 実例２：組み合わせて使う（Mix and match）
 
@@ -50,7 +50,7 @@
 </div><!-- /.row -->
 ```
 
-<img src="images/grid9.png" />
+![grid9.png](./images/grid9.png)
 
 1行目の要素はモバイル画面とそれ以外の端末の時とで、要素の配列指定を変えています。
 モバイル画面では全体で2行になり、それ以外の端末では要素を並列させて1行に納めています。
@@ -67,6 +67,4 @@
 
 ## 更に学ぼう
 
-### 記事、リソース
-
-Bootstrap 公式ドキュメント https://getbootstrap.com/
+- [Bootstrap公式](https://getbootstrap.com/)

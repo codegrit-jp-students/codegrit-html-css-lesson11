@@ -6,7 +6,7 @@ Bootstrapとは、twitter社が開発元のHTML、CSS、JavaScriptからなる�
 
 ## Bootstrapの公式ドキュメント
 
-<img src="images/bootstrap-document.png" />
+![bootstrap-document.png](./images/bootstrap-document.png)
 
 プログラミングを学習するにあたり、それぞれの言語やフレームワーク、外部ライブラリの公式ドキュメントをチェックするのは基本的なことですが、実はとても大事なことです。
 
